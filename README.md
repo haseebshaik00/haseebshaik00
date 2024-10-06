@@ -17,9 +17,9 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haseebshaik00&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="haseebshaik00's Stats" height="200">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebshaik00&theme=tokyonight&hide_border=true" alt="haseebshaik00's Streak" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebshaik00&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="haseebshaik00's Top Languages" width="100%" height="220px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=haseebshaik00&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="haseebshaik00's Stats" height="180">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebshaik00&theme=tokyonight&hide_border=true" alt="haseebshaik00's Streak" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebshaik00&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="haseebshaik00's Top Languages" width="100%" height="200"/>
   </p>
 </div>  
 
