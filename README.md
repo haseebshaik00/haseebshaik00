@@ -2,12 +2,12 @@
 <h3 align="center">MSCS Student at UC Davis | Former SDE at UBS</h3>
 <br/>
 
-- 📄 Know more about me [https://flowcv.me/haseebshaik00/](https://flowcv.me/haseebshaik00/)
-- 📲 Connect me with on [https://www.linkedin.com/in/haseebshaik00/](https://www.linkedin.com/in/haseebshaik00/)
-- 💻 My Leetcode Profile is [https://leetcode.com/u/haseebshaik00/](https://leetcode.com/u/haseebshaik00/)
-- 👨‍💻 All of my projects are available at [https://github.com/haseebshaik00/](https://github.com/haseebshaik00/)
+- 📄 Know more about me! [Check out my Portfolio!](https://haseebshaik00.github.io/)
+- 📲 Connect with me on [LinkedIn](https://www.linkedin.com/in/haseebshaik00/)
+- 💻 My Coding Profile is available here: [Leetcode](https://leetcode.com/u/haseebshaik00/)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/haseebshaik00/)
 - 🌱 I’m currently learning **Machine Learning and NextJS**
-- 📝 I regularly write articles on [https://medium.com/@haseebshaik00/](https://medium.com/@haseebshaik00/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@haseebshaik00/)
 - 💬 Ask me about **Software Engineering and Full Stack Development**
 - 📫 Reach out to me at **hrahman@ucdavis.edu** or **haseebshaik00@gmail.com**
 
